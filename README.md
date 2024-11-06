@@ -1,4 +1,4 @@
-# Flavor Fields Website
+# Flavor-Fields 
 
 Welcome to **Flavor Fields**! This is a little project I created to capture the cozy, welcoming vibe of a cafe and restaurant. Think of it as a place where flavor meets comfort, now on the web!
 
