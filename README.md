@@ -4,7 +4,7 @@ Welcome to **Flavor Fields**! This is a little project I created to capture the 
 
 ## 🌍 Live Site
 
-You can see it live here: [Flavor Fields on GitHub Pages](https://Darshparikh10.github.io/flavor-fields-website/). Feel free to explore!
+You can see it live here: [Flavor Fields on GitHub Pages](https://Darshparikh10.github.io/flavor-fields/). Feel free to explore!
 
 ## 📁 Project Overview
 
